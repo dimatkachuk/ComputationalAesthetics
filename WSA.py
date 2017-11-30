@@ -17,7 +17,7 @@ class WSA:
 
 
 class Cell:
-    def __init__(self, size, shape='s', color=(0,0,0)):
+    def __init__(self, size, shape='s', color=(255,255,255)):
         self.size = size
         self.shape = shape
         self.color = color
